@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/sitemap.xml
+Host: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/
