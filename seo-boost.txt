@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-06T19:06:28Z
+last_seo_boost=2026-08-06T19:08:30Z
 slug=deborah-ewurama-akuoko-research
 platforms=github+pages+huggingface
 public=true
