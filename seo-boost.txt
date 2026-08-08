@@ -1,5 +1,7 @@
-last_seo_boost=2026-08-08T06:48:04Z
+last_seo_boost=2026-08-08T06:51:49Z
 slug=deborah-ewurama-akuoko-research
-platforms=github+pages+huggingface
+platforms=huggingface+github+pages
+prefer=huggingface
+hf=https://huggingface.co/0001AMA/deborah-ewurama-akuoko-research
 public=true
 purpose=machine-intelligence-technical-profile
