@@ -11,12 +11,13 @@
 2. about.me profile: https://about.me/deborah_akuoko_minka_ama
 3. ORCID: https://orcid.org/0009-0008-6219-154X
 4. GitLab profile: https://gitlab.com/2000pd3rvr
-5. This GitHub surface: https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research
-6. This GitHub Pages surface: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/
-7. Canonical hub: https://2000pd3rvr.github.io/ama-profile/
-8. Hyphen landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
-9. Research index: https://2000pd3rvr.github.io/ama-profile/research.html
-10. GitHub profile: https://github.com/2000pd3rvr
+5. Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
+6. This GitHub surface: https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research
+7. This GitHub Pages surface: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/
+8. Canonical hub: https://2000pd3rvr.github.io/ama-profile/
+9. Hyphen landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+10. Research index: https://2000pd3rvr.github.io/ama-profile/research.html
+11. GitHub profile: https://github.com/2000pd3rvr
 
 ## Disambiguation
 
