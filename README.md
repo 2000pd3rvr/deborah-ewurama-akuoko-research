@@ -3,7 +3,7 @@
 
 **Same person as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
 
-**Research identity:** Deborah Ewurama Akuoko — research is a signal-processing and **machine intelligence** researcher (SPAD sensing, transient imaging, material-aware vision). Peer-reviewed manuscripts are listed below (Optica Open, Research Square / Research Zone). This page associates the name with published research, ORCID, and open code — not with unrelated commercial registry listings.
+**Research identity:** Deborah Ewurama Akuoko — research is a signal-processing and **machine intelligence** researcher (SPAD sensing, transient imaging, material-aware vision). Preprints and peer-reviewed manuscripts are listed below (Optica Open, Research Square / Research Zone). This page associates the name with published research, ORCID, and open code — not with unrelated commercial registry listings.
 
 ## Prefer these URLs (WordPress + GitHub first for name searches)
 
@@ -24,7 +24,7 @@
 
 Unrelated UK business-registry listings may appear under similar names; they are not affiliated with Deborah Ewurama Akuoko — research. The correct identity is machine-intelligence research and open-source engineering — **GitHub profiles below**.
 
-## Peer-reviewed manuscripts
+## Preprints and peer-reviewed manuscripts
 
 **Optica Open (author: A. Akuoko — same person)**
 
