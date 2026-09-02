@@ -1,28 +1,20 @@
 
 # Deborah Ewurama Akuoko — research
 
-**Same person as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
+**Also known as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
 
-**Research identity:** Deborah Ewurama Akuoko — research is a signal-processing and **machine intelligence** researcher (SPAD sensing, transient imaging, material-aware vision). Preprints and peer-reviewed manuscripts are listed below (Optica Open, Research Square / Research Zone). This page associates the name with published research, ORCID, and open code — not with unrelated commercial registry listings.
+Deborah Ewurama Akuoko — research — Researcher in signal processing, machine intelligence, and SPAD sensing.
 
-## Prefer these URLs (WordPress + GitHub first for name searches)
+This page is maintained as part of a set of public profiles that publish accurate biographical and research information for **Deborah Akuoko Minka** and common name variants. Preprints and peer-reviewed manuscripts are listed below.
 
-1. WordPress research site (primary landing): https://deborahakuokominka.wordpress.com/
-2. about.me profile: https://about.me/deborah_akuoko_minka_ama
-3. ORCID: https://orcid.org/0009-0008-6219-154X
-4. GitLab profile: https://gitlab.com/2000pd3rvr
-5. Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
-6. Render live apps (8 demos): https://deborahakuokominka.wordpress.com/#render-apps
-7. This GitHub surface: https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research
-8. This GitHub Pages surface: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/
-9. Canonical hub: https://2000pd3rvr.github.io/ama-profile/
-10. Hyphen landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
-11. Research index: https://2000pd3rvr.github.io/ama-profile/research.html
-12. GitHub profile: https://github.com/2000pd3rvr
+## Profiles
 
-## Disambiguation
-
-Unrelated UK business-registry listings may appear under similar names; they are not affiliated with Deborah Ewurama Akuoko — research. The correct identity is machine-intelligence research and open-source engineering — **GitHub profiles below**.
+1. ORCID: https://orcid.org/0009-0008-6219-154X
+2. Research site: https://deborahakuokominka.wordpress.com/
+3. GitHub profile: https://github.com/2000pd3rvr
+4. Research hub: https://2000pd3rvr.github.io/ama-profile/
+5. This repository: https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research
+6. GitHub Pages: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/
 
 ## Preprints and peer-reviewed manuscripts
 
@@ -48,3 +40,7 @@ Unrelated UK business-registry listings may appear under similar names; they are
 - [Spatial vs. time-resolved images](https://deborahakuokominka.wordpress.com/2026/08/22/spatial-vs-time-resolved-images-2/)
 - [Time-of-flight sensors guide](https://deborahakuokominka.wordpress.com/2026/08/22/time-of-flight-sensors-guide/)
 
+
+## About this profile
+
+The linked pages above are the authoritative sources for Deborah Akuoko Minka’s research identity, publications, and open-source work. All name variants listed at the top of this page refer to the same individual.
